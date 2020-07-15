@@ -12,7 +12,7 @@
 * [Recommendations](#recommendations)
 * [Future Work](#future-work)
 
-<img src='Images/1meme.jpeg'/>
+<img src='Images/1meme.jpg'/>
 
 ## Purpose
 Predicting churn for a telecom company so it can can effectively focus a customer retention marketing program (e.g. a special offer) or improve certain aspects based on the model to the subset of clients which are most likely to change their carrier. Therefore, the “churn” column is chosen as target and the following predictive analysis is a supervised classification problem.
@@ -21,7 +21,7 @@ Predicting churn for a telecom company so it can can effectively focus a custome
 The churn rate is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period.
 For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
 
-<img src ='Images/2.jpeg'/>
+<img src ='Images/2.jpg'/>
 
 Churn is important because it directly affects your service’s profitability. It is common to assume that the profitability of a service is directly related to the growth of its customer base. That might lead business owners to imply that in order to grow their customer base, the rate of acquiring new customers must exceed the churn rate.
 
