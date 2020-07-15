@@ -1,4 +1,4 @@
-# Telecom Churn Analysis.
+# Telecom Churn Analysis
 * [Blog Link](https://medium.com/@saifkasmani84/telecom-churn-analysis-8f982807574f)
 * [Video Recording](PresentationVid/presvid.mp4)
 * [Presentation](Presentation/presentation.pdf)
